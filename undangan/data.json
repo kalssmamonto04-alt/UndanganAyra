@@ -1,0 +1,38 @@
+{
+  "acara": {
+    "namaAdik": "Humayra Safitri Mamonto",
+    "namaPanggilan": "Ayra",
+    "jenisAcara": "Pembeatan",
+    "hari": "Sabtu",
+    "tanggal": "2026-09-26",
+    "tanggalTampil": "26 September 2026",
+    "waktu": "11:00 WITA - Selesai",
+    "alamat": "Lorong depan Kantor Lurah Girian Indah, Kel. Mamonto Harun, Bitung",
+    "mapsQuery": "Kantor Lurah Girian Indah, Bitung",
+    "mapsLat": null,
+    "mapsLng": null,
+    "mapsEmbedUrl": "https://www.google.com/maps?q=Kantor+Lurah+Girian+Indah+Bitung&output=embed"
+  },
+  "orangTua": {
+    "ayah": "-",
+    "ibu": "-"
+  },
+  "sambutan": {
+    "ayat": "Dan Kami perintahkan kepada manusia (berbuat baik) kepada dua orang ibu-bapaknya.",
+    "sumberAyat": "QS. Al-Ankabut: 8"
+  },
+  "musik": {
+    "url": "",
+    "judul": "Belum ada musik dipilih"
+  },
+  "galeri": [
+    { "url": "", "caption": "Foto 1" },
+    { "url": "", "caption": "Foto 2" },
+    { "url": "", "caption": "Foto 3" },
+    { "url": "", "caption": "Foto 4" }
+  ],
+  "tamu": [
+    { "nama": "Bapak/Ibu/Saudara/i", "kode": "" }
+  ],
+  "ucapan": []
+}
